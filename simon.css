@@ -1,0 +1,39 @@
+*{
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.div{
+    display: flex;
+    flex-wrap:wrap;
+    width:530px;
+}
+
+.box{
+    height:200px;
+    width:200px;
+    border:4px solid black;
+    margin:1.4rem;   
+    border-radius: 25px;
+}
+
+.red{
+    background-color: #d7345d;
+}
+
+.green{
+    background-color: #36a893;
+}
+
+.purple{
+    background-color: #5e3495;
+}
+
+.yellow{
+    background-color: #ffa617;
+}
+
+.flash{
+    background-color: white;
+}
